@@ -1,5 +1,5 @@
 ## Hi, I'm @CHarshithReddy 👋
-
+I’m currently working on IoT-based systems and web development projects that combine hardware, software
 
 <!--
 **CHarshithReddy/CHarshithReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
