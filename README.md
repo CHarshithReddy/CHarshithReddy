@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm @CHarshithReddy 👋</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+<img align="right" alt="coding" width="400" src="<img width="2400" height="1350" alt="image" src="https://github.com/user-attachments/assets/ad6f5be1-3b78-4f15-87bc-8f36fe889c62" />
+">
 
 - 🔭 I’m currently working on **IoT Based Farmland Protection System.**
 
