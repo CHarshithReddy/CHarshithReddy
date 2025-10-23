@@ -1,4 +1,4 @@
-![logo](https://github.com/CHarshithReddy/CHarshithReddy/blob/main/Github%20Banner.png)
+![logo](https://github.com/CHarshithReddy/CHarshithReddy/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm @CHarshithReddy </h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src= "https://github.com/user-attachments/assets/96a23698-98a9-479b-906b-8aa3450ddd00" />
