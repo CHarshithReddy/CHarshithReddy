@@ -1,7 +1,7 @@
 ## Hi, I'm @CHarshithReddy 👋
 I’m currently working on IoT-based systems and web development projects that combine hardware, software
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 - 🔭 I’m currently working on **IoT Based Farmland Protection System.**
 
