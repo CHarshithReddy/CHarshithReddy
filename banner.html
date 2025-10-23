@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GitHub Banner Generator</title>
+  <style>
+    body {
+      background: #0f172a;
+      color: white;
+      font-family: "Inter", Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    canvas {
+      border-radius: 16px;
+      box-shadow: 0 4px 25px rgba(0,0,0,0.4);
+    }
+
+    button {
+      margin-top: 20px;
+      background-color: #0ea5a6;
+      border: none;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 8px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #14b8a6;
+    }
+  </style>
+</head>
+<body>
+
+  <canvas id="banner" width="1280" height="360"></canvas>
+  <button id="download">Download Banner</button>
+
+  <script>
+    const canvas = document.getElementById("banner");
+    const ctx = canvas.getContext("2d");
+
+    // === Background Gradient ===
+    const gradient = ctx.createLinearGradient(0, 0, 0, canvas.height);
+    gradient.addColorStop(0, "#0f172a");
+    gradient.addColorStop(1, "#0b3b45");
+    ctx.fillStyle = gradient;
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+    // === Decorative Blob ===
+    const blob = new Path2D();
+    blob.moveTo(880, 80);
+    blob.bezierCurveTo(1100, -20, 1300, 180, 1150, 260);
+    blob.bezierCurveTo(980, 340, 800, 240, 880, 80);
+    ctx.fillStyle = "rgba(255,255,255,0.06)";
+    ctx.fill(blob);
+
+    // === Avatar Circle ===
+    const avatarX = 160, avatarY = 130, radius = 70;
+    ctx.beginPath();
+    ctx.arc(avatarX, avatarY, radius, 0, Math.PI * 2);
+    ctx.fillStyle = "#0ea5a6";
+    ctx.fill();
+
+    // Initials inside avatar
+    ctx.fillStyle = "#ffffff";
+    ctx.font = "bold 36px Inter, Arial";
+    ctx.textAlign = "center";
+    ctx.textBaseline = "middle";
+    ctx.fillText("HR", avatarX, avatarY + 4);
+
+    // === Text Section ===
+    ctx.fillStyle = "#ffffff";
+    ctx.font = "bold 46px Inter, Arial";
+    ctx.textAlign = "left";
+    ctx.fillText("Harshith Reddy", 280, 120);
+
+    ctx.fillStyle = "#cfeef2";
+    ctx.font = "20px Inter, Arial";
+    ctx.fillText("Frontend · React · Node · Open to collaborate", 280, 160);
+
+    // === Badges ===
+    const drawBadge = (x, y, text) => {
+      const paddingX = 16;
+      const paddingY = 10;
+      ctx.font = "16px Inter, Arial";
+      const textWidth = ctx.measureText(text).width;
+      const badgeWidth = textWidth + paddingX * 2;
+      const badgeHeight = 40;
+
+      // Rounded rectangle
+      ctx.beginPath();
+      ctx.moveTo(x + 8, y);
+      ctx.lineTo(x + badgeWidth - 8, y);
+      ctx.quadraticCurveTo(x + badgeWidth, y, x + badgeWidth, y + 8);
+      ctx.lineTo(x + badgeWidth, y + badgeHeight - 8);
+      ctx.quadraticCurveTo(x + badgeWidth, y + badgeHeight, x + badgeWidth - 8, y + badgeHeight);
+      ctx.lineTo(x + 8, y + badgeHeight);
+      ctx.quadraticCurveTo(x, y + badgeHeight, x, y + badgeHeight - 8);
+      ctx.lineTo(x, y + 8);
+      ctx.quadraticCurveTo(x, y, x + 8, y);
+      ctx.closePath();
+
+      ctx.fillStyle = "rgba(255,255,255,0.07)";
+      ctx.fill();
+
+      ctx.fillStyle = "#fff";
+      ctx.fillText(text, x + paddingX, y + 26);
+    };
+
+    drawBadge(280, 190, "📦 Open Source · Maintainer");
+    drawBadge(560, 190, "⚡ Fast builds · React + Tailwind");
+
+    // === Footer Text ===
+    ctx.fillStyle = "rgba(255,255,255,0.4)";
+    ctx.font = "12px Inter, Arial";
+    ctx.fillText("github.com/CHarshithReddy • Updated: 23 Oct 2025", 60, 340);
+
+    // === Download Button ===
+    document.getElementById("download").addEventListener("click", () => {
+      const link = document.createElement("a");
+      link.download = "github_banner.png";
+      link.href = canvas.toDataURL("image/png");
+      link.click();
+    });
+  </script>
+</body>
+</html>
