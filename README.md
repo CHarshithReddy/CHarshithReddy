@@ -155,20 +155,6 @@ Short description of what it does and the problem it solves.
 ---
 
 <!-- ═══════════════════════════════════════════ -->
-<!--           SECTION 6 · ACTIVITY            -->
-<!-- ═══════════════════════════════════════════ -->
-
-## 🗓️ Contribution activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CHarshithReddy&theme=minimal&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════ -->
 <!--           SECTION 7 · CONTACT             -->
 <!-- ═══════════════════════════════════════════ -->
 
