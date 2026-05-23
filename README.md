@@ -1,24 +1,76 @@
-![logo](https://github.com/CHarshithReddy/CHarshithReddy/blob/main/Github%20banner.png)
-<h1 align="center">Hi 👋, I'm @CHarshithReddy </h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src= "https://github.com/user-attachments/assets/96a23698-98a9-479b-906b-8aa3450ddd00" />
+<!-- typing animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2D9CDB¢er=true&width=500&lines=Hi%2C+I'm+Harshith+Reddy+%F0%9F%91%8B;Software+Engineer+%7C+Python+%7C+Java;Building+IoT+%2B+AI+Systems;Open+to+Remote+%26+On-Site+Roles" alt="Typing SVG" />
+</div>
 
+<br>
 
-- 🔭 I’m currently working on **IoT Based Farmland Protection System.**
+![Profile Views](https://komarev.com/ghpvc/?username=CHarshithReddy&color=blue&style=flat-square&label=Profile+Views)
 
-- 🌱 I’m currently learning **data structures and algorithms to strengthen my problem-solving skills.**
+---
 
-- 📫 How to reach me **cheruvuharshithreddy@gmail.com**
+Software engineer with a CS background, building things that solve real problems — from IoT systems for agriculture to web applications that actually get used. I write clean Python and Java, know my way around databases and the web stack, and care about code that works in the real world.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshith-reddy-cheruvu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshith-reddy-cheruvu" height="30" width="40" /></a>
-</p>
+**🟢 Open to work — remote, hybrid, or on-site**
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## What I work with
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CHarshithReddy&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHarshithReddy&layout=compact&theme=default&hide_border=true" height="160" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=CHarshithReddy&theme=default&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## Projects
+
+### IoT Farmland Protection System
+Sensor-based system that monitors and protects agricultural land — detects intrusion and environmental changes, sends real-time alerts.
+**Stack:** Python · IoT · Embedded hardware
+🔗 [View repo](#)
+
+<!-- Add 2-3 more pinned repos here -->
+
+---
+
+## Currently
+
+→ Adding ML-based anomaly detection to the farmland system  
+→ Building backend API projects to sharpen system design skills  
+→ Looking for a role where I can contribute from day one  
+
+---
+
+## Activity
+
+[![Harshith's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CHarshithReddy&theme=minimal&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## Get in touch
+
+📧 cheruvuharshithreddy@gmail.com  
+💼 [LinkedIn](#)
