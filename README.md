@@ -1,66 +1,77 @@
-<!-- ═══════════════════════════════════════════ -->
-<!--           SECTION 1 · HEADER              -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░  SECTION 1 · HEADER  ░░░░░░░░░░ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2D9CDB¢er=true&width=600&lines=Hey+there%2C+I'm+Harshith+Reddy+%F0%9F%91%8B;Software+Engineer+%7C+Python+%7C+Java;Building+IoT+%2B+AI+Systems;Open+to+Remote+%26+On-Site+Roles" alt="Typing animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D9CDB,100:6C63FF&height=200§ion=header&text=Harshith%20Reddy&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Python%20%7C%20Java%20%7C%20ML%20%7C%20Web&descAlignY=58&descSize=18" width="100%" />
 
 <br>
 
-<p>
-🧑‍💻 Software engineer from India &nbsp;·&nbsp;
-🐍 Python &nbsp;·&nbsp; ☕ Java &nbsp;·&nbsp; 🌐 Web &nbsp;·&nbsp; 🛢️ SQL &nbsp;·&nbsp; 📡 IoT
-</p>
-
-<p>
-🌱 Building real-world systems that solve real problems &nbsp;·&nbsp;
-🚀 <strong>Open to remote, hybrid & on-site roles</strong>
-</p>
-
-<a href="mailto:cheruvuharshithreddy@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/CHarshithReddy">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2D9CDB¢er=true&width=620&lines=I+build+things+that+matter+%F0%9F%9A%80;From+raw+data+to+real+predictions+%F0%9F%8F%8F;From+patterns+to+protection+%F0%9F%94%8D;Open+to+remote%2C+hybrid+%26+on-site+roles+%F0%9F%8C%8D" alt="Typing animation" />
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=CHarshithReddy&color=blue&style=flat-square&label=Profile+Views)
+<a href="mailto:cheruvuharshithreddy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp;
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://github.com/CHarshithReddy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=CHarshithReddy&color=6C63FF&style=flat-square&label=Profile+Views)
+![](https://img.shields.io/badge/Open%20to%20Work-00C853?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Based%20in%20India-FF6B6B?style=flat-square&logoColor=white)
 
 </div>
 
----
+<br>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--           SECTION 2 · ABOUT               -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░  SECTION 2 · ABOUT  ░░░░░░░░░░ -->
 
-## 🙋‍♂️ About me
+## 🧑‍💻 The story so far...
 
-I'm a CS graduate and software engineer who builds things that work in the real world — not just in theory. My current focus is IoT and AI systems, and I'm always looking for ways to apply tech to problems that matter.
+> *"I didn't just study computer science — I fell into the rabbit hole and never came back."*
 
-I write clean Python and Java, know my way around SQL and the web stack, and care about writing code that's readable, maintainable, and actually shipped.
+I'm **Harshith Reddy**, a CS graduate from India who gets genuinely excited when code does something useful in the real world. Not demo-useful. Actually-useful.
 
-- 🔭 &nbsp; Currently building an **IoT Farmland Protection System** with real-time alerts
-- 🤖 &nbsp; Extending it with **ML-based anomaly detection**
-- 💡 &nbsp; Always working on something new — check my pinned repos
-- 📍 &nbsp; Based in India · Open to relocate or work remotely
-- 💬 &nbsp; Ask me about Python, IoT, or building systems from scratch
+My journey started with curiosity — *why do some IPL teams win in certain conditions?* That curiosity became a machine learning model. Then I looked at job boards overflowing with fake listings preying on desperate applicants, and that frustration became an NLP classifier that calls out the fraud.
 
----
+That's the pattern for me: **see a real problem → build a real solution**.
 
-<!-- ═══════════════════════════════════════════ -->
-<!--           SECTION 3 · TECH STACK          -->
-<!-- ═══════════════════════════════════════════ -->
+I work primarily in Python and Java, know my way around SQL and the web stack, and care deeply about writing code that is readable, maintainable, and actually shipped.
 
-## 🛠️ Tech stack
+<br>
 
-**Languages**
+<table>
+<tr>
+<td>🔭 &nbsp; <b>Currently building</b></td>
+<td>More ML projects — turning data into decisions</td>
+</tr>
+<tr>
+<td>🌱 &nbsp; <b>Currently learning</b></td>
+<td>Deep learning, system design, backend APIs</td>
+</tr>
+<tr>
+<td>💬 &nbsp; <b>Ask me about</b></td>
+<td>Python, ML pipelines, NLP, or cricket statistics</td>
+</tr>
+<tr>
+<td>🚀 &nbsp; <b>Looking for</b></td>
+<td>Remote, hybrid, or on-site roles — open to relocate</td>
+</tr>
+<tr>
+<td>⚡ &nbsp; <b>Fun fact</b></td>
+<td>I built an IPL predictor and I still can't predict the weather</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ░░░░░░░░░░  SECTION 3 · TECH STACK  ░░░░░░░░░░ -->
+
+## 🛠️ Tools of the trade
+
+<div align="center">
+
+**Languages I speak fluently**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -68,112 +79,109 @@ I write clean Python and Java, know my way around SQL and the web stack, and car
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & platforms**
+**Libraries & frameworks I reach for**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+**Where I build & ship**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
+</div>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--           SECTION 4 · PROJECTS            -->
-<!-- ═══════════════════════════════════════════ -->
+<br>
 
-## 🚀 Projects
+<!-- ░░░░░░░░░░  SECTION 4 · PROJECTS  ░░░░░░░░░░ -->
+
+## 🚀 Things I've built
+
+*Each project started with a question. Here's what happened next.*
+
+<br>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🏏 IPL Win Predictor
-ML model that predicts IPL match winners based on team stats, venue, toss outcome, and historical match data. Trained on real IPL datasets.
 
-**Stack:** Python · scikit-learn · Pandas · NumPy · ML
+**The question:** *Can an algorithm predict what cricket pundits argue about for hours?*
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](YOUR_IPL_REPO_LINK)
+I collected historical IPL match data — team stats, venue conditions, toss outcomes, head-to-head records — and trained a classification model to predict match winners before the first ball is bowled.
+
+**What I learned:** Feature engineering matters more than the model. Choosing the right variables was 80% of the work.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/%E2%86%92%20View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](YOUR_IPL_REPO_LINK)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔍 Fake Job Detector
-NLP-powered classifier that identifies fraudulent job postings using text analysis and machine learning. Helps job seekers avoid scam listings.
 
-**Stack:** Python · NLP · scikit-learn · Pandas · TF-IDF
+**The question:** *How many people lose hope applying to jobs that were never real?*
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](YOUR_FAKEJOB_REPO_LINK)
+Job boards are flooded with fraudulent listings designed to harvest personal data. I built an NLP classifier using TF-IDF vectorisation and machine learning to detect fake postings from their text — before a real person wastes their time on them.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**What I learned:** Imbalanced datasets are brutal. SMOTE and precision-recall trade-offs became very real, very fast.
 
-### 🌐 Project Three
-Short description of what it does and the problem it solves.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=flat-square&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**Stack:** HTML · CSS · SQL
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPO_LINK)
-
-</td>
-<td width="50%" valign="top">
-
-### ☕ Project Four
-Short description of what it does and the problem it solves.
-
-**Stack:** Java
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPO_LINK)
+[![View Repo](https://img.shields.io/badge/%E2%86%92%20View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](YOUR_FAKEJOB_REPO_LINK)
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--           SECTION 5 · STATS               -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░  SECTION 5 · STATS  ░░░░░░░░░░ -->
 
-## 📊 GitHub stats
+## 📊 By the numbers
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CHarshithReddy&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHarshithReddy&layout=compact&theme=default&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=CHarshithReddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=6C63FF&icon_color=2D9CDB" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHarshithReddy&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF" height="170" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CHarshithReddy&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CHarshithReddy&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
----
+<!-- ░░░░░░░░░░  SECTION 7 · CONTACT  ░░░░░░░░░░ -->
 
-<!-- ═══════════════════════════════════════════ -->
-<!--           SECTION 7 · CONTACT             -->
-<!-- ═══════════════════════════════════════════ -->
-
-## 📬 Get in touch
+## 📬 Let's build something
 
 <div align="center">
 
-<p>I reply fast. If you're hiring or want to build something together — reach out directly.</p>
+> *I'm not just looking for a job. I'm looking for a problem worth solving with people worth working with.*
+
+If that resonates — I reply fast.
+
+<br>
 
 <a href="mailto:cheruvuharshithreddy@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/Email%20me%20directly-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a> &nbsp;
+<a href="www.linkedin.com/in/harshithreddycheruvu">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br><br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-
 </div>
