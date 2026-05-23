@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2D9CDB¢er=true&width=620&lines=I+build+things+that+matter+%F0%9F%9A%80;From+raw+data+to+real+predictions+%F0%9F%8F%8F;From+patterns+to+protection+%F0%9F%94%8D;Open+to+remote%2C+hybrid+%26+on-site+roles+%F0%9F%8C%8D" alt="Typing animation" />
+font=Fira+Code&size=22&pause=1200&color=2D9CDB¢er=true&width=620&lines=I+build+things+that+matter+%F0%9F%9A%80;From+raw+data+to+real+predictions+%F0%9F%8F%8F;From+patterns+to+protection+%F0%9F%94%8D;Open+to+remote%2C+hybrid+%26+on-site+roles+%F0%9F%8C%8D" alt="Typing animation" />
 
 <br><br>
 
